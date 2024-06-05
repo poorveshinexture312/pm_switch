@@ -178,7 +178,7 @@ class _MyAppState extends State<MyApp> {
 
 
 
-Required properties 
+Required properties
 
 | Property   | Description                                       |
 |------------|---------------------------------------------------|
